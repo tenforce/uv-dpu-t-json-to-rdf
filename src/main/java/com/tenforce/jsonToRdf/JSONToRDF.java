@@ -1,4 +1,4 @@
-package com.tenforce.json-to-rdf;
+package com.tenforce.jsonToRdf;
 
 import com.github.jsonldjava.core.*;
 

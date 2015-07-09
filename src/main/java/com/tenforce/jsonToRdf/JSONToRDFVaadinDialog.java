@@ -1,6 +1,4 @@
-package com.tenforce.json-to-rdf;
-
-package tenforce.test;
+package com.tenforce.jsonToRdf;
 
 import com.vaadin.data.Property;
 import com.vaadin.data.util.ObjectProperty;

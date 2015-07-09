@@ -1,4 +1,4 @@
-package com.tenforce.json-to-rdf;
+package com.tenforce.jsonToRdf;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
