@@ -7,10 +7,10 @@
         <version>2.0.1</version>
     </parent>
     <groupId>tenforce</groupId>
-    <artifactId>uv-dpu-t-json-to-rdf</artifactId>
+    <artifactId>uv-t-jsonToRdf</artifactId>
     <version>0.1</version>
     <packaging>bundle</packaging>
-    <name>uv-t-json-to-rdf</name>
+    <name>uv-t-jsonToRdf</name>
     <description></description>
 
     <properties>
