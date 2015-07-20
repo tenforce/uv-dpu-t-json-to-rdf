@@ -14,7 +14,7 @@
     <description></description>
 
     <properties>
-        <dpu.package>com.tenforce.json-to-rdf</dpu.package>
+        <dpu.package>com.tenforce.jsonToRdf</dpu.package>
         <dpu.mainClass>JSONToRDF</dpu.mainClass>
     </properties>
 
