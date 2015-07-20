@@ -8,7 +8,7 @@
     </parent>
     <groupId>tenforce</groupId>
     <artifactId>uv-t-jsonToRdf</artifactId>
-    <version>0.1</version>
+    <version>1.0.0</version>
     <packaging>bundle</packaging>
     <name>uv-t-jsonToRdf</name>
     <description></description>
